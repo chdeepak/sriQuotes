@@ -1,0 +1,15 @@
+(function(){
+var quotes = [
+    { "quoteId":"1", "quoteMessage":"Be Spiritual" },
+    { "quoteId":"2", "quoteMessage":"Seva" },
+    { "quoteId":"3", "quoteMessage":"Sadhna" }
+    ];
+  var images = [
+    { "imageId":"1", "uri":"/srisri.png" },
+    { "imageId":"2", "uri":"/aol.png" },
+    { "imageId":"3", "uri":"/happy.png" }
+    ];
+
+var quote = quotes[Math.floor(Math.random()*quotes.length)];
+
+})();
