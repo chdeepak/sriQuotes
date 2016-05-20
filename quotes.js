@@ -11,5 +11,6 @@ var quotes = [
     ];
 
 var quote = quotes[Math.floor(Math.random()*quotes.length)];
-
+document.getElementById("quote").innerHTML =
+'<p class="quote">' +quote.quoteMessage + '</p>';
 })();
