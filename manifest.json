@@ -11,9 +11,13 @@
      "default_title": "Click here!"
   },
   "permissions": [
-    "tabs"
+    "tabs",
+    "history",
+    "topSites",
+    "browsingData"
   ],
   "chrome_url_overrides" : {
-    "newtab": "newpage.html"
+    /*"newtab": "newpage.html",*/
+    "newtab": "menupage.html"
   }
 }
