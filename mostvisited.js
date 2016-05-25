@@ -25,7 +25,7 @@ function buildPopupDom(mostVisitedURLs) {
       title.concat('...');
     }
     // $(a).append('<img src="https://plus.google.com/_/favicon?domain_url='+a.href+'">');
-    $('#sidebar ol').append('<a href="'+link+'">'+'<li><div style="color:green"><img src="https://plus.google.com/_/favicon?domain_url='+link+'">      '+title+'</div></li></a>');
+    $('#sidebar ol').append('<a href="'+link+'">'+'<li><div style="color:black"><img src="https://plus.google.com/_/favicon?domain_url='+link+'">      '+title+'</div></li></a>');
     // a.appendChild(document.createTextNode(mostVisitedURLs[i].title));
     // a.addEventListener('click', onAnchorClick);
   }
