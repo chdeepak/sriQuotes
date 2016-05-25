@@ -317,3 +317,44 @@ div.popup a:hover {
 	border: 1px solid #ccc;
 	text-align: center;
 }
+
+
+
+
+
+.sidebar ol {
+  padding: 0;
+  margin: 0;
+}
+.sidebar ol li {
+  width: 90%;
+  margin: 5px 10px;
+  float: left;
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 3px 6px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 2px solid #1abc9c;
+  background: #1abc9c;
+  color: #f3f3f3;
+}
+.sidebar ol li a {
+  color: white;
+}
+.sidebar ol li:hover {
+  background: #17a689;
+  border-color: #17a689;
+}
