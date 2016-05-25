@@ -10,10 +10,10 @@ function buildPopupDom(mostVisitedURLs) {
   // var ol = popupDiv.appendChild(document.createElement('ol'));
   var urlNumb = "";
 
-  if(mostVisitedURLs.length < 7)
+  if(mostVisitedURLs.length < 10)
     urlNumb = mostVisitedURLs.length;
   else
-    urlNumb = 7;
+    urlNumb = 10;
 
   for (var i = 0; i < urlNumb; i++) {
     // var li = ol.appendChild(document.createElement('li'));
