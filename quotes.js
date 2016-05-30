@@ -20,5 +20,5 @@ var image = images[Math.floor(Math.random()*images.length)];
 document.getElementById("quote").innerHTML =
 '<p class="quote">' +quote.quoteMessage + '</p>';
 
-document.body.style.backgroundImage = 'url('+ image.uri +')';
+document.body.style.backgroundImage = 'url(images/'+ image.uri +')';
 })();
