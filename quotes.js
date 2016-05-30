@@ -8,17 +8,17 @@ var quotes = [
     { "imageId":"1", "uri":"/srisri.jpeg" },
     { "imageId":"2", "uri":"/aol.jpeg" },
     { "imageId":"3", "uri":"/happy.jpeg" },
-        { "imageId":"4", "uri":"/SriSriRaviShankar.jpeg" }
+    { "imageId":"4", "uri":"/SriSriRaviShankar.jpeg" }
     ];
+
+
 
 var quote = quotes[Math.floor(Math.random()*quotes.length)];
 
-
 var image = images[Math.floor(Math.random()*images.length)];
 
-
-document.getElementById("quote").innerHTML =
-'<p class="quote">' +quote.quoteMessage + '</p>';
+document.getElementById("quote").innerHTML =  '<p class="quote">' +quote.quoteMessage + '</p>';
 
 document.body.style.backgroundImage = 'url(images/'+ image.uri +')';
+
 })();
