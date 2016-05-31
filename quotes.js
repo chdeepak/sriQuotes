@@ -22,7 +22,7 @@ var quote = quotes[Math.floor(Math.random()*quotes.length)];
 
 var image = images[Math.floor(Math.random()*images.length)];
 
-document.getElementById("quote").innerHTML =  '<p class="quote">' +quote.quoteMessage + '</p>'+ '<p class="author" align="right">' + ' - Sri Sri' + '</p>';
+document.getElementById("quote").innerHTML =  '<p class="quote">' +quote.quoteMessage + '</p>';
 
 document.body.style.backgroundImage = 'url(images/'+ image.uri +')';
 
