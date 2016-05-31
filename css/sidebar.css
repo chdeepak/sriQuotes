@@ -48,11 +48,11 @@
 
 
 .mostvisitedContainer {
-  max-width: 260px;
+  max-width: 300px;
   color: #17a689;
   padding-top: 100px;
   margin: 0;
-  padding: 0;
+  padding: 100;
   float: left;
 }
 
@@ -80,10 +80,10 @@
 .sidebar {
   position: fixed;
   z-index: 9999999;
-  left: 0;
+  left: 30;
   top: 0;
   height: 100%;
-  width: 260px;
+  width: 300px;
   /*background: #f3f3f3;*/
   -webkit-transition: left 0.3s ease, -webkit-box-shadow 0.3s ease 0.2s;
   transition: left 0.3s ease, box-shadow 0.3s ease 0.2s;
