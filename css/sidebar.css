@@ -48,11 +48,11 @@
 
 
 .mostvisitedContainer {
-  max-width: 300px;
-  color: #17a689;
-  padding-top: 100px;
-  margin: 0;
-  padding: 100;
+  max-width: 330px;
+  /*padding-top: 100px;*/
+  /*margin: 0;*/
+  height: 100%;
+  width: 330px;
   float: left;
 }
 
@@ -84,7 +84,6 @@
   top: 0;
   height: 100%;
   width: 300px;
-  /*background: #f3f3f3;*/
   -webkit-transition: left 0.3s ease, -webkit-box-shadow 0.3s ease 0.2s;
   transition: left 0.3s ease, box-shadow 0.3s ease 0.2s;
   -webkit-box-shadow: 0.5em 0 0 0 #1abc9c, 0.6em 0 0 0 #17a689;
