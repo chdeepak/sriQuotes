@@ -23,6 +23,54 @@
     }, {
         "quoteid": 8,
         "quotemessage": "Just wake up and see that you are beautiful. The innocence in you is so beautiful. The dance in you is so beautiful."
+    }, {
+        "quoteid": 9,
+        "quotemessage": "When feverishness clogs your head, your mind is not clear; poetry cannot dawn on that. If there is feverishness, any creative thought will not come."
+    }, {
+        "quoteid": 10,
+        "quotemessage": "One who is in love with the entire Universe worships everything in this Universe"
+    }, {
+        "quoteid": 11,
+        "quotemessage": "The power of spiritual knowledge gives you centeredness, which brings out passion in work & dispassion in meditation."
+    }, {
+        "quoteid": 12,
+        "quotemessage": "When your intentions are very pure and clear, nature brings support to you."
+    }, {
+        "quoteid": 13,
+        "quotemessage": "Wherever there is sincerity & talent, people do recognize them. It may take some time but we should have some patience and hold on to our passion.”"
+    }, {
+        "quoteid": 14,
+        "quotemessage": "Do not be feverish about success, if your aim is clear and you have patience to move towards it, nature will support you."
+    }, {
+        "quoteid": 15,
+        "quotemessage": "Don’t be over complacent or too feverish, take a middle path."
+    }, {
+        "quoteid": 16,
+        "quotemessage": "Recognize and honour your uniqueness."
+    }, {
+        "quoteid": 17,
+        "quotemessage": "Spiritual knowledge improves intuitive ability, innovative ability and communication."
+    }, {
+        "quoteid": 18,
+        "quotemessage": "The positive aspect of competition in a business scenario is it helps you to be more alert and innovative."
+    }, {
+        "quoteid": 19,
+        "quotemessage": "Keeping the mind open to new ideas, not being too anxious about success, putting 100% effort and meditation is the formula for entrepreneurs."
+    }, {
+        "quoteid": 20,
+        "quotemessage": "Love is not an emotion. It is your very existence."
+    }, {
+        "quoteid": 21,
+        "quotemessage": "Human evolution has two steps - \nfrom being somebody to being nobody;\nand from being nobody to being everybody.\nThis knowledge can bring \nsharing and caring throughout the world."
+    }, {
+        "quoteid": 22,
+        "quotemessage": "Faith is realizing that you always get what you need."
+    }, {
+        "quoteid": 23,
+        "quotemessage": "Today is a gift from God - that is why it is called the present."
+    }, {
+        "quoteid": 24,
+        "quotemessage": "When you share your misery, it will not diminish. When you fail to share your joy, it diminishes. Share your problems only with the Divine, not with anyone else, as that will only increase the problems. Share your joy with everyone.\n\nListen to others; yet do not listen. If your mind gets stuck in their problems, not only are they miserable, but you also become miserable."
     }];
     var images = [{
         "imageId": "2",
