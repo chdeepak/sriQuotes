@@ -1,12 +1,12 @@
 (function(){
-var quotes = [
+var quotes =[
     {
         "quoteid": 1,
         "quotemessage": "The only thing you must remember is how fortunate you are. When you forget this, you become sad."
     },
     {
         "quoteid": 2,
-        "quotemessage": "This definite knowledge that I am not the body, I am the Self, I am the space, I am the Imperishable, untouched, untainted by the \\\"prakriti,\\\" and by this world around me; this body is all hollow and empty, and every particle in this body is changing, and changing, and changing; the mind is changing and changing and changing---this definite knowledge is the way out of the cycle."
+        "quotemessage": "This definite knowledge that I am not the body, I am the Self, I am the space, I am the Imperishable, untouched, untainted by the \"prakriti\", and by this world around me; this body is all hollow and empty, and every particle in this body is changing, and changing, and changing; the mind is changing and changing and changing---this definite knowledge is the way out of the cycle."
     },
     {
         "quoteid": 3,
@@ -26,7 +26,7 @@ var quotes = [
     },
     {
         "quoteid": 7,
-        "quotemessage": "Use anger as a tool but don’t be a tool of anger."
+        "quotemessage": "Use anger as a tool but don't be a tool of anger."
     },
     {
         "quoteid": 8,
