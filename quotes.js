@@ -25,9 +25,6 @@
         "quotemessage": "Just wake up and see that you are beautiful. The innocence in you is so beautiful. The dance in you is so beautiful."
     }];
     var images = [{
-        "imageId": "1",
-        "uri": "/srisri.jpeg"
-    }, {
         "imageId": "2",
         "uri": "/aol.jpeg"
     }, {
@@ -36,6 +33,27 @@
     }, {
         "imageId": "4",
         "uri": "/SriSriRaviShankar.jpeg"
+    }, {
+        "imageId": "5",
+        "uri": "/srisri1.jpeg"
+    }, {
+        "imageId": "6",
+        "uri": "/srisri2.jpeg"
+    }, {
+        "imageId": "7",
+        "uri": "/srisri3.jpeg"
+    }, {
+        "imageId": "8",
+        "uri": "/srisri4.jpeg"
+    }, {
+        "imageId": "9",
+        "uri": "/srisri5.jpeg"
+    }, {
+        "imageId": "10",
+        "uri": "/srisri6.jpeg"
+    }, {
+        "imageId": "11",
+        "uri": "/srisri7.jpeg"
     }];
 
 
