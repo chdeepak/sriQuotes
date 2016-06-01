@@ -86,13 +86,15 @@
   width: 300px;
   -webkit-transition: left 0.3s ease, -webkit-box-shadow 0.3s ease 0.2s;
   transition: left 0.3s ease, box-shadow 0.3s ease 0.2s;
-  -webkit-box-shadow: 0.5em 0 0 0 #1abc9c, 0.6em 0 0 0 #17a689;
-  box-shadow: 0.5em 0 0 0 #1abc9c, 0.6em 0 0 0 #17a689;
+  /*-webkit-box-shadow: 0.5em 0 0 0 #1abc9c, 0.6em 0 0 0 #17a689;*/
+  /*box-shadow: 0.5em 0 0 0 #1abc9c, 0.6em 0 0 0 #17a689;*/
 }
 
-.sidebar h2 {
+.sidebar h1 {
   padding: .5em;
-  color: #1abc9c;
+  color: #37cadc;
+  font-weight: bold;
+  
 }
 
 .sidebar ol {
