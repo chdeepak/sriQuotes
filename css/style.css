@@ -31,7 +31,7 @@ div#quoteContainer {
   height: 100%;
 }
 
-div#wrap {
+div#container {
   color: #FFF;
   width: 100%;
 
@@ -41,12 +41,12 @@ div#wrap {
   display: table;
 }
 
-div#wrap div#content {
+div#container div#content {
   display: table-cell;
   vertical-align: middle;
 
 }
-div#wrap div#content p.quote {
+div#container div#content p.quote {
   font-family: 'Bitter';
   font-size: 36px;
   margin-top: 100;
@@ -56,7 +56,7 @@ div#wrap div#content p.quote {
   line-height: normal;
   text-align: justify;
 }
-div#wrap div#content p.author {
+div#container div#content p.author {
   font-family: "Lato";
   font-style: italic;
   font-size: 22px;
