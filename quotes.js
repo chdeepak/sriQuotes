@@ -43,7 +43,7 @@
         "quotemessage": "Do not be feverish about success, if your aim is clear and you have patience to move towards it, nature will support you."
     }, {
         "quoteid": 15,
-        "quotemessage": "Don’t be over complacent or too feverish, take a middle path."
+        "quotemessage": "Don't be over complacent or too feverish, take a middle path."
     }, {
         "quoteid": 16,
         "quotemessage": "Recognize and honour your uniqueness."

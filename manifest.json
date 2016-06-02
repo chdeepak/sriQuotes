@@ -7,7 +7,6 @@
 
   "browser_action": {
     "default_icon": "images/icon.png",
-    /*"default_popup": "popup.html",*/
      "default_title": "Click here!"
   },
   "permissions": [
@@ -17,7 +16,6 @@
     "browsingData"
   ],
   "chrome_url_overrides" : {
-    /*"newtab": "newpage.html",*/
-    "newtab": "menupage.html"
+    "newtab": "newtab.html"
   }
 }
