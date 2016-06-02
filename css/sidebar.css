@@ -1,9 +1,4 @@
 
-@import url(http://weloveiconfonts.com/api/?family=entypo);
-@import url(http://weloveiconfonts.com/api/?family=openwebicons);
-@import url(http://weloveiconfonts.com/api/?family=fontawesome);
-@import url(http://weloveiconfonts.com/api/?family=zocial);
-@import url(http://weloveiconfonts.com/api/?family=fontelico);
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -13,39 +8,6 @@
   font-weight: 300;
   line-height: 34px;
 }
-
-/* entypo */
-[class*="entypo-"]:before {
-  font-family: "entypo", sans-serif;
-}
-
-/* openwebicons */
-[class*="openwebicons-"]:before {
-  font-family: "openwebicons", sans-serif;
-}
-
-/* fontawesome */
-[class*="fontawesome-"]:before {
-  font-family: "fontawesome", sans-serif;
-}
-
-/* zocial */
-[class*="zocial-"]:before {
-  font-family: "zocial", sans-serif;
-}
-
-/* fontelico */
-[class*="fontelico-"]:before {
-  font-family: "fontelico", sans-serif;
-}
-
-/* Fix OPW
-----------------------------------------------------------*/
-/* openwebicons */
-[class*="openwebicons-"]:before {
-  font-family: 'OpenWeb Icons', sans-serif;
-}
-
 
 .mostvisitedContainer {
   max-width: 330px;
@@ -94,7 +56,7 @@
   padding: .5em;
   color: #37cadc;
   font-weight: bold;
-  
+
 }
 
 .sidebar ol {
@@ -156,40 +118,4 @@
   padding: .2em .4em;
   height: 30px !important;
   border-radius: 3px;
-}
-
-/* Blurred class
-
-This class is added to the container
-(#blurMe) when the sidebar is open.
------------------------------------*/
-.blurred {
-  -webkit-transition: all 0.6s ease;
-  transition: all 0.6s ease;
-  -webkit-filter: blur(10px);
-  filter: blur(10px);
-  -webkit-filter: url(#blur);
-  filter: url(#blur);
-  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='10');
-}
-
-/* Logo effect
------------------------------*/
-@-webkit-keyframes blur {
-  66% {
-    -webkit-filter: blur(1px);
-    filter: blur(1px);
-    -webkit-filter: url(#blurLogo);
-    filter: url(#blurLogo);
-    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='1');
-  }
-}
-@keyframes blur {
-  66% {
-    -webkit-filter: blur(1px);
-    filter: blur(1px);
-    -webkit-filter: url(#blurLogo);
-    filter: url(#blurLogo);
-    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='1');
-  }
 }
