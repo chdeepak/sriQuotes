@@ -59,6 +59,63 @@
     }, {
         "quoteid": 20,
         "quotemessage": "When feverishness clogs your head, your mind is not clear; poetry cannot dawn on that. If there is feverishness, any creative thought will not come."
+    }, {
+        "quoteid": 21,
+        "quotemessage": "If you can win over your mind, you can win over the whole world."
+    }, {
+        "quoteid": 22,
+        "quotemessage": "Life works on strange laws of nature (Karma). One never knows when a friend turns enemy & vice-versa. Rely on your Self; self-reliance"
+    }, {
+        "quoteid": 23,
+        "quotemessage": "Why can't we control our anger? because we love perfection. Make a little room for imperfection in our lives."
+    }, {
+        "quoteid": 24,
+        "quotemessage": "If something can bring you great pleasure, it can also bring you pain."
+    }, {
+        "quoteid": 25,
+        "quotemessage": "Don't Fall in love, Rise in Love!"
+    }, {
+        "quoteid": 26,
+        "quotemessage": "There is no use getting angry at something that has already happened.All you can do is your best to check it doesn't happen again."
+    }, {
+        "quoteid": 27,
+        "quotemessage": "Nothing in the world can bother you as much as your own mind, I tell you. In fact, others seem to be bothering you, but it is not other, it is your own mind."
+    }, {
+        "quoteid": 28,
+        "quotemessage": "Infinity means it is permeating all the finite things"
+    }, {
+        "quoteid": 29,
+        "quotemessage": "The path of love is not a tedious path. It's a path of joy. It's a path of singing and dancing."
+    }, {
+        "quoteid": 30,
+        "quotemessage": "Joy is never tomorrow; it is always now."
+    }, {
+        "quoteid": 31,
+        "quotemessage": "Life is a ball we should play with it !"
+    }, {
+        "quoteid": 32,
+        "quotemessage": "You need to see your life in context of time and space — how vast creation is, how big the universe is and how small your life is, relative"
+    }, {
+        "quoteid": 33,
+        "quotemessage": "If someone blames you directly, do not believe it. Just know that they are taking away your bad karma and let it"
+    }, {
+        "quoteid": 34,
+        "quotemessage": "Your desire for pleasure or happiness makes you unhappy."
+    }, {
+        "quoteid": 35,
+        "quotemessage": "Healthy breathing is the key to eliminating these toxins and harmonising emotions. Neither"
+    }, {
+        "quoteid": 36,
+        "quotemessage": "Shasana means rules someone else imposes on you. Anushasana means rules you impose on yourself."
+    }, {
+        "quoteid": 37,
+        "quotemessage": "say, drop all your defenses. Anyone can make a mistake — even you. Do not defend your mistakes; just accept them and move on. When you are totally defenseless, that is when you will be completely strong."
+    }, {
+        "quoteid": 38,
+        "quotemessage": "We should not exit from this world without finding out who we are and where we have come from. This is very important."
+    }, {
+        "quoteid": 39,
+        "quotemessage": "Forgetfulness of the infinite is misery. Forgetfulness of the trivial is ecstasy."
     }];
 
 
