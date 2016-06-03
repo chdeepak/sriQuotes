@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,400italic);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic);
 
 body {
   min-height: 100vh;
@@ -48,7 +47,8 @@ div#container div#content {
 }
 div#container div#content p.quote {
   font-family: 'Bitter';
-  font-size: 36px;
+  font-style: oblique;
+  font-size: 42px;
   margin-top: 100;
   margin-bottom: 0;
   padding-left: 5px;
@@ -57,11 +57,11 @@ div#container div#content p.quote {
   text-align: justify;
 }
 div#container div#content p.author {
-  font-family: "Lato";
+  font-family: "Bitter";
   font-style: italic;
   font-size: 22px;
   margin: 30px;
   margin-right: 20px;
-  opacity: .9;
+  opacity: .7;
   color: #fff;
 }
