@@ -109,13 +109,46 @@
         "quotemessage": "Shasana means rules someone else imposes on you. Anushasana means rules you impose on yourself."
     }, {
         "quoteid": 37,
-        "quotemessage": "say, drop all your defenses. Anyone can make a mistake — even you. Do not defend your mistakes; just accept them and move on. When you are totally defenseless, that is when you will be completely strong."
+        "quotemessage": "Drop all your defenses. Anyone can make a mistake - even you. Do not defend your mistakes; just accept them and move on. When you are totally defenseless, that is when you will be completely strong."
     }, {
         "quoteid": 38,
         "quotemessage": "We should not exit from this world without finding out who we are and where we have come from. This is very important."
     }, {
         "quoteid": 39,
         "quotemessage": "Forgetfulness of the infinite is misery. Forgetfulness of the trivial is ecstasy."
+    }, {
+        "quoteid": 40,
+        "quotemessage": "Only the heart can speak or hear that which is authentic."
+    }, {
+        "quoteid": 41,
+        "quotemessage": "Everyone is like one's own finger; everyone is an inseparable part of the Being. There is no separateness; there is no “two”. The entire creation is one Whole.\n"
+    }, {
+        "quoteid": 42,
+        "quotemessage": "You are being loved very dearly. This reminder softens you; brings about miracles around you and changes your life"
+    }, {
+        "quoteid": 43,
+        "quotemessage": "The more the witness grows in you, the more playful and untouched you are"
+    }, {
+        "quoteid": 44,
+        "quotemessage": "f you want to grow in Divine Love, you have to drop the pride and all the artificial walls you build between yourself and others. Through these walls, we keep judging others, and we think others are judging us."
+    }, {
+        "quoteid": 45,
+        "quotemessage": "Spirituality is nothing but caring and sharing; offering oneself in service"
+    }, {
+        "quoteid": 46,
+        "quotemessage": "Source of action is thought, source of thought is your Self. Whatever thought you encourage about yourself, that’s the direction taken"
+    }, {
+        "quoteid": 47,
+        "quotemessage": "A Guru will put you into your Self, make you reach the goal - not just tell you some techniques and show you some path."
+    }, {
+        "quoteid": 48,
+        "quotemessage": "Curiosity is the mother of science; Wonder is the mother of spirituality"
+    }, {
+        "quoteid": 49,
+        "quotemessage": "Love is that phenomenon of dissolving, disappearing, merging, becoming one with the infinite. Love is that phenomenon of total letting go."
+    }, {
+        "quoteid": 50,
+        "quotemessage": "You are free right now."
     }];
 
 
