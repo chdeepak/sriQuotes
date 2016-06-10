@@ -4,7 +4,7 @@
     var quotes = new Array();
     var images = new Array();
 
-    $.when($.getJSON('quotes.json'), $.getJSON('images.json'))
+    $.when($.getJSON('./../json/quotes.json'), $.getJSON('./../json/images.json'))
         .done(function(quotesFile, photosFile) {
             quotes = quotesFile[0].quotes;
 
