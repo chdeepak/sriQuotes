@@ -11,7 +11,7 @@
             var quoteIndex = Math.floor(Math.random() * quotes.length);
             var quote = quotes[quoteIndex];
 
-            var imageIndex = 10;//Math.floor(Math.random() * images.length)
+            var imageIndex = Math.floor(Math.random() * images.length);
             var image = images[imageIndex];
 
             document.getElementById("quote").innerHTML = '<p class="quote">' + quote.quotemessage + '</p>';
