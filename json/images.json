@@ -13,7 +13,7 @@
         "uri": "/srisri4.jpeg"
     }, {
         "imageId": "5",
-        "uri": "/srisri5.jpeg"
+        "uri": "/srisri5.png"
     }, {
         "imageId": "6",
         "uri": "/srisri6.jpeg"
@@ -29,5 +29,11 @@
     }, {
         "imageId": "10",
         "uri": "/srisri10.jpeg"
+    }, {
+        "imageId": "11",
+        "uri": "/srisri11.jpeg"
+    }, {
+        "imageId": "12",
+        "uri": "/srisri12.jpeg"
     }]
 }
