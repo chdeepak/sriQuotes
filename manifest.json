@@ -1,26 +1,26 @@
 {
-  "manifest_version": 2,
+    "manifest_version": 2,
 
-  "name": "Sri Sri Quotes",
-  "description": "This extension shows a Quotes When you open a new tab",
-  "version": "1.0",
+    "name": "Sri Sri Quotes",
+    "description": "This extension shows a Quotes When you open a new tab",
+    "version": "1.0",
 
-  "browser_action": {
-    "default_icon": "images/icon-16.png",
-     "default_title": "Refresh yourself with Knowledge Quotes!"
-  },
+    "browser_action": {
+        "default_icon": "images/icon-16.png",
+        "default_title": "Refresh yourself with Knowledge Quotes!"
+    },
 
-  "icons": { "16": "images/icon-16.png",
-           "48": "images/icon-48.png",
-          "128": "images/icon-128.png" },
+    "icons": {
+        "16": "images/icon-16.png",
+        "48": "images/icon-48.png",
+        "128": "images/icon-128.png"
+    },
 
-  "permissions": [
-    "tabs",
-    "history",
-    "topSites",
-    "browsingData"
-  ],
-  "chrome_url_overrides" : {
-    "newtab": "newtab.html"
-  }
+    "permissions": [
+        "tabs",
+        "topSites"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    }
 }
