@@ -3,7 +3,7 @@
 
     "name": "Sri Sri Quotes",
     "description": "Refresh yourself with Knowledge Quotes!",
-    "version": "1.22",
+    "version": "1.23",
 
     "browser_action": {
         "default_icon": "images/icon-128.png",
